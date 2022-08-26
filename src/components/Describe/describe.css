@@ -1,0 +1,9 @@
+.describe{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: px;
+    background-color:rgb(182, 89, 162);
+    border: 2px solid black;
+}
+.describe p{
+    margin-left: 20px;
+}
